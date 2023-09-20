@@ -1,4 +1,4 @@
-Greetings, I'm Ivan Davidov 👋
+### Greetings, I'm Ivan Davidov 👋<br>
 🧠 QA by Heart<br>
 🖥️ Front-End Enthusiast<br>
 ⚙️ Passionate about Automation<br>
