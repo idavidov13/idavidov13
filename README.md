@@ -1,4 +1,5 @@
 ### Greetings, I'm Ivan Davidov 👋<br>
+💡Problem Solver
 🧠 QA by Heart<br>
 🖥️ Front-End Enthusiast<br>
 ⚙️ Passionate about Automation<br>
