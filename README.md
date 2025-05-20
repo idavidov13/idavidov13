@@ -12,6 +12,7 @@
 🟢 Domain experience: banking, pharmaceutical and civil engineering.<br>
 
 <br />
+
 **ISTQB CTFL** and **PSM I** certified, I am bringing over 3 year of experience in Software Engineering, 7 years of experience in Civil engineering project management, team leadership and project design, to the table, I champion a disciplined, results-driven approach, boasting a record of more than 35 successful projects.
 
  ---
