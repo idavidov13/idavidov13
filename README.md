@@ -1,6 +1,6 @@
 # <img align="Left" alt="Electron" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/electron/electron-original.svg" /> Ivan Davidov
 
-**`Enhances the standard of quality (Automation QA Engineer)`**
+### **`Enhances the standard of quality (Automation QA Engineer)`**
 <br>
 
 🟢 Led the development of end-to-end (E2E) and API testing frameworks from scratch using Playwright and TypeScript, ensuring robust and scalable test automation solutions.<br>
