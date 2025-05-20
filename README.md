@@ -2,7 +2,7 @@
 
 **`Enhances the standard of quality (Automation QA Engineer)`**
 
-**Automation QA Engineer, ISTQB CTFL, PSM I, helping teams improve the quality of the product they deliver to their customers.**<br>
+**Automation QA Engineer, , helping teams improve the quality of the product they deliver to their customers.**<br>
 <br>
 🟢 Led the development of end-to-end (E2E) and API testing frameworks from scratch using Playwright and TypeScript, ensuring robust and scalable test automation solutions.<br>
 🟢 Integrated automated tests into CI/CD pipelines to enhance continuous integration and delivery.<br> 
@@ -13,7 +13,7 @@
 🟢 Improved QA processes, tools, and methodologies for increased testing efficiency.<br>
 🟢 Domain experience: banking, pharmaceutical and civil engineering.<br>
 
-Bringing over 3 year of experience in Software Engineering, 7 years of experience in Civil engineering project management, team leadership and project design, to the table, I champion a disciplined, results-driven approach, boasting a record of more than 35 successful projects.
+**ISTQB CTFL** and **PSM I** certified, I am bringing over 3 year of experience in Software Engineering, 7 years of experience in Civil engineering project management, team leadership and project design, to the table, I champion a disciplined, results-driven approach, boasting a record of more than 35 successful projects.
 
  ---
 
