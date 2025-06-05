@@ -8,7 +8,7 @@
 🟢 Provided accurate project estimations for QA activities, aiding effective project planning.<br> 
 🟢 Worked with development and product teams to align testing efforts with business and technical requirements.<br> 
 🟢 Improved QA processes, tools, and methodologies for increased testing efficiency.<br>
-🟢 Domain experience: banking, pharmaceutical and civil engineering.<br>
+🟢 Domain experience: trading assets, banking, pharmaceutical and civil engineering.<br>
 
 <br />
 
