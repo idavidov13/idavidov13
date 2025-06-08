@@ -1,6 +1,6 @@
 # <img align="Left" alt="Electron" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/electron/electron-original.svg" /> Ivan Davidov
 
-Hi there! I'm an Automation QA Engineer passionate about building scalable and maintainable testing solutions. I'm currently focused on enhancing product quality through robust automation using Playwright, Cypress, and k6 for performance testing. I believe great software is built on a foundation of collaboration and a shared commitment to excellence.
+Hi there 👋🏻! I'm an Automation QA Engineer passionate about building scalable and maintainable testing solutions. I'm currently focused on enhancing product quality through robust automation using Playwright, Cypress, and k6 for performance testing. I believe great software is built on a foundation of collaboration and a shared commitment to excellence.
 
 ### **`Enhances the standard of quality (Automation QA Engineer)`**
 
@@ -15,7 +15,7 @@ Hi there! I'm an Automation QA Engineer passionate about building scalable and m
 
 <br />
 
-**ISTQB CTFL** and **PSM I** certified, I use my [blog](idavidov.eu) to document my work and mentor others entering the QA space. Feel free to check out my pinned repositories to see my work in action. I'm always open to collaborating on new projects.
+**ISTQB CTFL** and **PSM I** certified, I use my 📃[blog](idavidov.eu) to document my work and mentor others entering the QA space. Feel free to check out my pinned repositories to see my work in action. I'm always open to collaborating on new projects.
 
  ---
 
