@@ -1,6 +1,9 @@
 # <img align="Left" alt="Electron" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/electron/electron-original.svg" /> Ivan Davidov
 
+Hi there! I'm an Automation QA Engineer passionate about building scalable and maintainable testing solutions. I'm currently focused on enhancing product quality through robust automation using Playwright, Cypress, and k6 for performance testing. I believe great software is built on a foundation of collaboration and a shared commitment to excellence.
+
 ### **`Enhances the standard of quality (Automation QA Engineer)`**
+
 🟢 Led the development of end-to-end (E2E) and API testing frameworks from scratch using Playwright and TypeScript, ensuring robust and scalable test automation solutions.<br>
 🟢 Integrated automated tests into CI/CD pipelines to enhance continuous integration and delivery.<br> 
 🟢 Created comprehensive test strategies and plans to improve test coverage and effectiveness.<br>
@@ -12,7 +15,7 @@
 
 <br />
 
-**ISTQB CTFL** and **PSM I** certified, I am bringing over 3 year of experience in Software Engineering, 7 years of experience in Civil engineering project management, team leadership and project design, to the table, I champion a disciplined, results-driven approach, boasting a record of more than 35 successful projects.
+**ISTQB CTFL** and **PSM I** certified, I use my [blog](idavidov.eu) to document my work and mentor others entering the QA space. Feel free to check out my pinned repositories to see my work in action. I'm always open to collaborating on new projects.
 
  ---
 
