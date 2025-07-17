@@ -1,7 +1,7 @@
 # <img align="Left" alt="Electron" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/electron/electron-original.svg" /> Ivan Davidov
 
 Hi there! 👋🏻<br>
-I'm an Automation QA Engineer passionate about building scalable and maintainable testing solutions. I'm currently focused on enhancing product quality through robust automation using Playwright, Cypress, and k6 for performance testing. I believe great software is built on a foundation of collaboration and a shared commitment to excellence.
+I'm an Automation QA Engineer passionate about building scalable and maintainable testing solutions. I'm currently focused on driving Software Quality & Build Scalable Solutions in Crypto and FinTech with Playwright and k6. I believe great software is built on a foundation of collaboration and a shared commitment to excellence.
 
 ### **`Enhances the standard of quality (Automation QA Engineer)`**
 
@@ -16,7 +16,9 @@ I'm an Automation QA Engineer passionate about building scalable and maintainabl
 
 <br />
 
-**ISTQB CTFL** and **PSM I** certified, I use my 📃[blog](idavidov.eu) to document my work and mentor others entering the QA space. Feel free to check out my pinned repositories to see my work in action. I'm always open to collaborating on new projects.
+**ISTQB CTFL** and **PSM I** certified, I use my 📃[blog](idavidov.eu) to document my work and mentor others entering the QA space.<br>
+You can also check 🤖[Test Case Generator](https://test-case-generation.vercel.app/), a Gemini Wrapper I built, which takes Gemini API key, Domain of the AUT and User Story and provides Software Requirements, Unclear Requirements, Integration, Functional, End-to-End and API test cases.<br>
+Feel free to check out my pinned repositories to see my work in action. I'm always open to collaborating on new projects.
 
  ---
 
