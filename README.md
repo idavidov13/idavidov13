@@ -1,7 +1,7 @@
 # <img align="Left" alt="Electron" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/electron/electron-original.svg" /> Ivan Davidov
 
 Hi there! 👋🏻<br>
-I'm an Automation QA Engineer passionate about building scalable and maintainable testing solutions. I'm currently focused on driving Software Quality & Build Scalable Solutions in Crypto and FinTech with Playwright and k6. I believe great software is built on a foundation of collaboration and a shared commitment to excellence.
+I'm an Automation QA Engineer passionate about building scalable and maintainable testing solutions. I'm currently focused on Building Confidence & Driving Software Quality in FinTech & Crypto with Playwright and k6. I believe great software is built on a foundation of collaboration and a shared commitment to excellence.
 
 ### **`Enhances the standard of quality (Automation QA Engineer)`**
 
