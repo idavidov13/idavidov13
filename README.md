@@ -2,12 +2,17 @@
 
 Hi there! 👋🏻<br>
 <br>
-My career is defined by one principle: mastering complexity and delivering results where the stakes are highest, whether in critical infrastructure or high-finance technology.<br>
-<br>
-Today, I specialize in crafting intelligent, maintainable testing solutions. I work with tools like Playwright, TypeScript, and AI. My expertise lies in architecting frameworks that identify issues efficiently while adapting to evolving technological landscapes.<br>
-<br>
-Through my blog, "Intelligent Quality", I mentor and guide other QA professionals, helping them navigate the complexities of modern quality assurance.<br>
+The future of Quality Assurance isn't just automation. It is Agentic Intelligence. I am a Lead QA and Educator dedicated to bridging the gap between traditional robust frameworks and the AI-driven future of testing.
 
+What I Do:
+
+Engineering Leadership: I lead teams in building high-performance testing frameworks for FinTech and Crypto sectors. I treat test code with the same rigor as production code. I am using Playwright and TypeScript and I am prioritizing scalability, maintainability, and speed.
+
+Agentic QE Implementation: I push the boundaries of what's possible by leveraging AI agents. My focus is on creating autonomous testing loops that reduce maintenance overhead and increase coverage.
+
+Community Impact: As the founder of "Intelligent Quality," I empower a community of 1,500+ engineers. I break down complex concepts into actionable strategies, teaching others how to survive and thrive in the era of AI.
+
+The Foundation: My approach to quality is grounded in a decade of Civil Engineering experience. Having managed €100M projects, I understand that true scalability requires a solid foundation. I’ve pivoted that engineering mindset from physical infrastructure to digital ecosystems.
 ## **`Enhancing the Standard of Quality (QA Automation Lead)`**
 
 🟢 Align Quality with Business Goals: Partnering with product managers and developers to create simple, clear quality strategies. This ensures the focus of our testing efforts on what matters most to the customers and the business.<br>
