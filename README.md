@@ -4,6 +4,8 @@ Hi there! 👋🏻<br>
 <br>
 The future of Quality Assurance isn't just automation. It is Agentic Intelligence. I am a Lead QA and Educator dedicated to bridging the gap between traditional robust frameworks and the AI-driven future of testing.
 
+I am actively working on ***Playwright Frameworks for AI-assisted development***, since I believe this is the future. You can find more in the [repo](https://github.com/idavidov13/Playwright-Scaffold-AI-Assisted-Development-Public)
+
 What I Do:
 
 Engineering Leadership: I lead teams in building high-performance testing frameworks for FinTech and Crypto sectors. I treat test code with the same rigor as production code. I am using Playwright and TypeScript and I am prioritizing scalability, maintainability, and speed.
