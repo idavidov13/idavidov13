@@ -1,73 +1,80 @@
-# <img align="Left" alt="Electron" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/electron/electron-original.svg" /> Ivan Davidov
+# <img align="left" alt="Playwright" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg" /> Ivan Davidov
 
-Hi there! 👋🏻<br>
-<br>
-The future of Quality Assurance isn't just automation. It is Agentic Intelligence. I am a Lead QA and Educator dedicated to bridging the gap between traditional robust frameworks and the AI-driven future of testing.
+Hi 👋🏻
 
-I am actively working on ***Playwright Frameworks for AI-assisted development***, since I believe this is the future. You can find more in the [repo](https://github.com/idavidov13/Playwright-Scaffold-AI-Assisted-Development-Public)
+I work on AI-native quality engineering — Playwright + TypeScript test systems designed so AI coding agents (Claude Code, Cursor, Copilot) can contribute to them without drifting from engineering standards.
 
-What I Do:
+QA Automation Lead at Wiser Technology. Technical Trainer at [SoftUni](https://softuni.bg). Founder of ArchQA.
 
-Engineering Leadership: I lead teams in building high-performance testing frameworks for FinTech and Crypto sectors. I treat test code with the same rigor as production code. I am using Playwright and TypeScript and I am prioritizing scalability, maintainability, and speed.
+---
 
-Agentic QE Implementation: I push the boundaries of what's possible by leveraging AI agents. My focus is on creating autonomous testing loops that reduce maintenance overhead and increase coverage.
+## Current focus
 
-Community Impact: As the founder of "Intelligent Quality," I empower a community of 1,500+ engineers. I break down complex concepts into actionable strategies, teaching others how to survive and thrive in the era of AI.
+- **AI-Native Scaffold** — Playwright + TypeScript project structure that gives AI agents the file-scoped context they need to write production-grade tests on the first try: no hallucinated selectors, no loose schemas, no brittle waits. Saves teams roughly 40 hours of setup. [Repo](https://github.com/idavidov13/Playwright-Scaffold-AI-Assisted-Development-Public).
 
-The Foundation: My approach to quality is grounded in a decade of Civil Engineering experience. Having managed €100M projects, I understand that true scalability requires a solid foundation. I’ve pivoted that engineering mindset from physical infrastructure to digital ecosystems.
-## **`Enhancing the Standard of Quality (QA Automation Lead)`**
+- **Workshop — 2026-04-29, 3 hours, online.** _"Orchestrating AI-Native Testing with Playwright"_, co-taught with [Debbie O'Brien](https://www.linkedin.com/in/debbie-obrien/) (Playwright Ambassador). Hosted by Packt Publishing. [Tickets](https://www.eventbrite.co.uk/e/orchestrating-ai-native-testing-with-playwright-tickets-1985113028506).
 
-🟢 Align Quality with Business Goals: Partnering with product managers and developers to create simple, clear quality strategies. This ensures the focus of our testing efforts on what matters most to the customers and the business.<br>
-<br>
-🟢 Bring Clarity to Complex Projects: Helping teams work together smoothly by leading quality efforts, ensuring everyone is aligned and clear on the goals, even across multiple teams.<br>
-<br>
-🟢 Build a Stronger Engineering Culture: Enjoy mentoring developers and QA professionals on best practices. This helps build a strong culture where everyone on the team feels responsible for quality.<br>
-<br>
-🟢 Increase Your Release Speed: Building modern, easy-to-use automated testing systems (for both the user interface and API) from scratch. This helps new features are released faster and with fewer bugs.<br>
-<br>
-🟢 Give Developers More Confidence: By adding automated tests into development pipeline (CI/CD), developers get instant feedback on their code, helping them move faster and with more confidence.<br>
+- **YouTube — [@ArchQA](https://www.youtube.com/@archqa).** Playwright, TypeScript, and AI-assisted testing tutorials. Launched 2026-03-31.
 
+- **Blog — [idavidov.eu](https://idavidov.eu) (_Intelligent Quality_).** Long-form posts on agentic QA, AI-native testing, and Playwright architecture.
+
+---
+
+## What I do at Wiser Technology
+
+**QA Automation Lead** — May 2025 → present.
+
+- Run the quality strategy across 5 engineering teams and align test effort with business risk and release priorities.
+- Maintain the scaffold, rules, and skill files that let AI coding agents contribute to the test suite inside reviewable pull requests — not as throwaway scripts.
+- Set shared standards across teams for coverage, framework layout, and code review.
+- Keep CI/CD feedback fast so developers get test signal on their commits in minutes.
+- Mentor QA engineers and developers on automation design, code review, and AI-assisted workflows.
+
+Stack: Playwright, TypeScript, REST APIs, GitHub Actions, Claude Code / Cursor / Copilot.
+
+---
+
+## Background
+
+Before QA, a decade in civil engineering. Designed wastewater treatment plants, then managed 20+ EU-funded environment projects totalling over EUR 100,000,000 at Bulgaria's Ministry of Environment and Water. Systems that fail predictably or not at all — same mindset, different medium.
+
+**Credentials:** ISTQB CTFL · PSM I.
+
+**Students taught to date:** 1,500+ across courses I've led.
+
+---
+
+## Side project
+
+🤖 **[Test Case Generator](https://test-case-generation.vercel.app/)** — a Gemini API wrapper that takes a Gemini key, the domain of the application under test, and a user story, then returns: software requirements, unclear-requirements flags, and integration / functional / E2E / API test cases.
+
+---
+
+## Languages and Tools
+
+<img align="left" alt="TypeScript" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+<img align="left" alt="JavaScript" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+<img align="left" alt="Playwright" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg" />
+<img align="left" alt="Cypress" width="50px" style="padding-right:10px; box-shadow: 50px 50px 50px 50px #FFFFFF;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-plain.svg" />
+<img align="left" alt="Postman" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" />
+<img align="left" alt="k6" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/k6/k6-original.svg" />
+<img align="left" alt="Git" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+<img align="left" alt="GitHub" width="50px" style="padding-right:10px; box-shadow: 50px 50px 50px 50px #FFFFFF;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
+<img align="left" alt="GitHub Actions" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" />
+<img align="left" alt="GitLab" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" />
+
+<br clear="left" />
 <br />
 
 ---
 
-**ISTQB CTFL** and **PSM I** certified, I use my 📃[blog](idavidov.eu) to document my work and mentor others entering the QA space.<br>
-<br>
-You can also check 🤖[Test Case Generator](https://test-case-generation.vercel.app/), a Gemini Wrapper I built, which takes Gemini API key, Domain of the AUT and User Story and provides Software Requirements, Unclear Requirements, Integration, Functional, End-to-End and API test cases.<br>
-<br>
-Feel free to check out my pinned repositories to see my work in action. I'm always open to collaborating on new projects.
+## Find me
 
- ---
+- LinkedIn — [in/ivdavidov](https://www.linkedin.com/in/ivdavidov/)
+- YouTube — [@ArchQA](https://www.youtube.com/@archqa)
+- Blog — [idavidov.eu](https://idavidov.eu)
+- Buy me a coffee — [idavidov](https://buymeacoffee.com/idavidov)
 
- ### Languages and Tools
-
- <img align="Left" alt="TypeScript" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
- <img align="Left" alt="JavaScript" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
- <img align="Left" alt="Playwright" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg" />
- <img align="Left" alt="Cypress" width="50px" style="padding-right:10px; box-shadow: 50px 50px 50px 50px #FFFFFF;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-plain.svg" />
- <img align="Left" alt="Postman" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" />
- <img align="Left" alt="k6" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/k6/k6-original.svg" />
-  <img align="Left" alt="Git" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
- <img align="Left" alt="GitHub" width="50px" style="padding-right:10px; box-shadow: 50px 50px 50px 50px #FFFFFF;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
- <img align="Left" alt="GitHub Actions" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" />
- <img align="Left" alt="GitLab" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" />
-<br />
-<br />
-
-#
-
-### Contact me
-
-<a href="https://www.linkedin.com/in/ivdavidov/" target="_blank">
-    <img align="left" 
-         alt="LinkedIn" 
-         width="50px" 
-         style="padding-right:10px;" 
-         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />
-</a>
-<br />
-<br />
-
-#
+---
 
 ![Ivan's GitHub stats](https://github-readme-stats.vercel.app/api?username=idavidov13&theme=gotham&show_icons=true)
