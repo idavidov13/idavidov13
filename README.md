@@ -10,13 +10,25 @@ QA Automation Lead at Wiser Technology. Technical Trainer at [SoftUni](https://s
 
 ## Current focus
 
-- **AI-Native Scaffold** — Playwright + TypeScript project structure that gives AI agents the file-scoped context they need to write production-grade tests on the first try: no hallucinated selectors, no loose schemas, no brittle waits. Saves teams roughly 40 hours of setup. [Repo](https://github.com/idavidov13/Playwright-Scaffold-AI-Assisted-Development-Public).
+- **Workshop — 2026-07-08, 3.5 hours, online.** _"Orchestrating AI-Native Testing with Playwright"_, co-taught with [Debbie O'Brien](https://www.linkedin.com/in/debbie-obrien/) (Playwright Ambassador). Hosted by Packt Publishing. The VIP pass includes full access to the AI-Native Scaffold repo. [Tickets](https://www.eventbrite.co.uk/e/orchestrating-ai-native-testing-with-playwright-c2-tickets-1989365606080).
 
-- **Workshop — 2026-04-29, 3 hours, online.** _"Orchestrating AI-Native Testing with Playwright"_, co-taught with [Debbie O'Brien](https://www.linkedin.com/in/debbie-obrien/) (Playwright Ambassador). Hosted by Packt Publishing. [Tickets](https://www.eventbrite.co.uk/e/orchestrating-ai-native-testing-with-playwright-tickets-1985113028506).
+- **AI-Native Scaffold** — Playwright + TypeScript project structure that gives AI agents the file-scoped context they need to write production-grade tests on the first try: no hallucinated selectors, no loose schemas, no brittle waits. Same rules and skills, shipped in three formats — Claude Code, Cursor, Copilot. Saves teams roughly 40 hours of setup. [Repo](https://github.com/idavidov13/Playwright-Scaffold-AI-Assisted-Development-Public).
 
-- **YouTube — [@ArchQA](https://www.youtube.com/@archqa).** Playwright, TypeScript, and AI-assisted testing tutorials. Launched 2026-03-31.
+- **YouTube — [@ArchQA](https://www.youtube.com/@archqa).** The architectural reasoning behind Playwright and TypeScript decisions — why the patterns work, not just how to copy them.
 
-- **Blog — [idavidov.eu](https://idavidov.eu) (_Intelligent Quality_).** Long-form posts on agentic QA, AI-native testing, and Playwright architecture.
+- **Podcast — _ArchQA Unscripted_.** Conversations on AI-native testing and Playwright architecture with the people building it. New episodes Tuesdays and Thursdays on [@ArchQA](https://www.youtube.com/watch?v=v_SkniVOeHM&list=PLYxABk1YARBwA0TgHQrsmSRsWl6uh-FK8).
+
+- **Blog — [idavidov.eu](https://idavidov.eu).** Long-form posts on agentic QA, AI-native testing, and Playwright architecture. New here? Start with the [roadmap](https://idavidov.eu/roadmap).
+
+---
+
+## Work with me
+
+- **AI-Native Testing Audit** — a fixed-scope review of your Playwright suite: architecture, flaky-test root causes, and how ready your framework is for AI agents to contribute safely. <!-- TODO: link the audit landing page -->
+- **Team workshops** — private editions of the Packt workshop, tailored to your stack and codebase.
+- **Scaffold implementation** — I set up the AI-Native Scaffold inside your repo and train the team on the orchestration layer.
+
+Reach me on [LinkedIn](https://www.linkedin.com/in/ivdavidov/).
 
 ---
 
@@ -40,7 +52,7 @@ Before QA, a decade in civil engineering. Designed wastewater treatment plants, 
 
 **Credentials:** ISTQB CTFL · PSM I.
 
-**Students taught to date:** 1,500+ across courses I've led.
+**Engineers trained to date:** 3,500+ across SoftUni courses and workshops I've led.
 
 ---
 
@@ -74,7 +86,3 @@ Before QA, a decade in civil engineering. Designed wastewater treatment plants, 
 - YouTube — [@ArchQA](https://www.youtube.com/@archqa)
 - Blog — [idavidov.eu](https://idavidov.eu)
 - Buy me a coffee — [idavidov](https://buymeacoffee.com/idavidov)
-
----
-
-![Ivan's GitHub stats](https://github-readme-stats.vercel.app/api?username=idavidov13&theme=gotham&show_icons=true)
