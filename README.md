@@ -2,7 +2,7 @@
 
 Hi 👋🏻
 
-I work on AI-native quality engineering — Playwright + TypeScript test systems designed so AI coding agents (Claude Code, Cursor, Copilot) can contribute to them without drifting from engineering standards.
+I work on Agentic Quality Engineering — Playwright + TypeScript test systems designed so AI coding agents (Claude Code, Cursor, Copilot) can contribute to them without drifting from engineering standards.
 
 QA Automation Lead at Wiser Technology. Technical Trainer at [SoftUni](https://softuni.bg). Founder of ArchQA.
 
