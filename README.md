@@ -10,9 +10,15 @@ QA Automation Lead at Wiser Technology. Technical Trainer at [SoftUni](https://s
 
 ## Current focus
 
-- **Workshop — 2026-07-08, 3.5 hours, online.** _"Orchestrating AI-Native Testing with Playwright"_, co-taught with [Debbie O'Brien](https://www.linkedin.com/in/debbie-obrien/) (Playwright Ambassador). Hosted by Packt Publishing. The VIP pass includes full access to the AI-Native Scaffold repo. [Tickets](https://www.eventbrite.co.uk/e/orchestrating-ai-native-testing-with-playwright-c2-tickets-1989365606080).
+- **Workshop — _"Orchestrating AI-Native Testing with Playwright"_ · C3 coming soon.** Co-taught with [Debbie O'Brien](https://www.linkedin.com/in/debbie-obrien/) (Playwright Ambassador), hosted by Packt Publishing. Two editions delivered: [C1](https://www.eventbrite.co.uk/e/orchestrating-ai-native-testing-with-playwright-tickets-1985113028506?aff=ivan) · [C2](https://www.eventbrite.co.uk/e/orchestrating-ai-native-testing-with-playwright-c2-tickets-1989365606080?aff=ivanc2&discount=ivan50). The VIP pass includes full access to the [Agentic Playwright Pro](https://buy.polar.sh/polar_cl_FEq10TonCCmFZlivhYDlMetfUowrXjcop8FBi3yGsDC) repo.
 
-- **AI-Native Scaffold** — Playwright + TypeScript project structure that gives AI agents the file-scoped context they need to write production-grade tests on the first try: no hallucinated selectors, no loose schemas, no brittle waits. Same rules and skills, shipped in three formats — Claude Code, Cursor, Copilot. Saves teams roughly 40 hours of setup. [Repo](https://github.com/idavidov13/Playwright-Scaffold-AI-Assisted-Development-Public).
+- **[Agentic Playwright](https://github.com/idavidov13/agentic-playwright)** — my open-source Playwright + TypeScript scaffold for agentic test automation, with the AI Harness baked in: Claude Code, Cursor, and Copilot write production-grade tests from the first prompt — no hallucinated selectors, no loose schemas, no brittle waits. One command, and the first test run is green in under 5 minutes:
+
+    ```bash
+    npm create agentic-playwright .
+    ```
+
+    Rules are advice — enforcement is a guarantee: [**Agentic Playwright Pro**](https://buy.polar.sh/polar_cl_FEq10TonCCmFZlivhYDlMetfUowrXjcop8FBi3yGsDC) adds the self-enforcing layer — write-time guards, custom AST lint rules, always-in-sync rule trees, and a continuously re-tested rulebook.
 
 - **YouTube — [@ArchQA](https://www.youtube.com/@archqa).** The architectural reasoning behind Playwright and TypeScript decisions — why the patterns work, not just how to copy them.
 
@@ -24,9 +30,9 @@ QA Automation Lead at Wiser Technology. Technical Trainer at [SoftUni](https://s
 
 ## Work with me
 
-- **AI-Native Testing Audit** — a fixed-scope review of your Playwright suite: architecture, flaky-test root causes, and how ready your framework is for AI agents to contribute safely. <!-- TODO: link the audit landing page -->
+- **Agentic Test Automation Audit** — a fixed-scope review of your Playwright suite: architecture, flaky-test root causes, and how ready your framework is for AI agents to contribute safely. <!-- TODO: link the audit landing page -->
 - **Team workshops** — private editions of the Packt workshop, tailored to your stack and codebase.
-- **Scaffold implementation** — I set up the AI-Native Scaffold inside your repo and train the team on the orchestration layer.
+- **Agentic Testing Scaffold implementation** — I set up the Agentic Testing Scaffold inside your repo and train the team on the orchestration layer.
 
 Reach me on [LinkedIn](https://www.linkedin.com/in/ivdavidov/).
 
@@ -52,7 +58,7 @@ Before QA, a decade in civil engineering. Designed wastewater treatment plants, 
 
 **Credentials:** ISTQB CTFL · PSM I.
 
-**Engineers trained to date:** 3,500+ across SoftUni courses and workshops I've led.
+**Engineers trained to date:** 4,000+ across SoftUni courses and workshops I've led.
 
 ---
 
